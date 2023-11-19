@@ -1,0 +1,336 @@
+.inbox1{
+    background-color: black;
+    height: 50px;
+}
+.fst{
+    color: white;
+}
+.sec{
+    background-color: black;
+}
+.inbox2{
+    /* background-color: blanchedalmond; */
+    height: 60vh;
+    text-align: center;
+    
+   
+    
+}
+.scnd{
+    color: white;
+
+}
+.sec2{
+    background-image: url(meat.jpg);
+   
+    background-size: cover;
+}
+.display-1{
+     color: white;
+    text-align-last: center; 
+    font-weight: bold;
+    
+     
+}
+.icon1{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    display: block;
+    margin-top: 200px;
+    
+    
+}
+.link1{
+    border: 10px,solid,yellow;
+    padding: 3px;
+    background-color:  rgba(173, 134, 6, 0.773);;
+    text-decoration: none;
+    color:  white;
+    font-weight: bold;
+    
+}
+.fst{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.sec3{
+    background-color: rgb(91, 87, 87);
+    background-image: url(meatt.jpg);
+    background-size: cover;
+    
+}
+.tgh{
+    background-color: rgba(0, 0, 0, 0.648);
+}
+.inbox3{
+    position: relative;
+    height: 200px;
+}
+.sec4{
+    background-image: url(hotel.jpg);
+    background-size: cover;
+}
+.inbox5{
+    position: relative;
+    height: 200px;
+}
+.inbox6{
+    height: 50vh;
+    text-align: center;
+}
+.scnd{
+    color: white;
+}
+.display-3{
+    color: white;
+   text-align-last: center; 
+   margin-top: 150px;
+   font-weight: 400;
+   text-decoration-line: underline;
+}
+.trd{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 30px;
+}
+.link2{
+    border: 10px,solid,yellow;
+    padding: 3px;
+    background-color: rgba(173, 134, 6, 0.773);
+    text-decoration: none;
+    color:  white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.sec5{
+    background-image: url(meat2.jpg);
+    background-size: cover;
+}
+.inbox7{
+    height: 50vh;
+    text-align: center;
+}
+.free2{
+    background-color: rgba(0, 0, 0, 0.437);
+}
+.icon2{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    display: block;
+    
+}
+.display-2{
+    color: white;
+   text-align-last: center; 
+   margin-top: 150px;
+   font-weight: 400;
+   text-decoration-line: underline;
+}
+.frt{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 30px;
+}
+.link3{
+    border: 10px,solid,yellow;
+    padding: 3px;
+    background-color: rgba(173, 134, 6, 0.773);
+    text-decoration: none;
+    color:  white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.sec6{
+    background-image: url(grilled.webp);
+   background-color: bisque;
+    background-size: cover;
+}
+.free{
+    background-color: rgba(243, 231, 231, 0.648);
+}
+
+.one{
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+.two{
+    color: white;
+    margin-top: 0px;
+}
+
+.display-5{
+    color: white;
+   text-align-last: center; 
+   margin-top: 150px;
+   font-weight: 400;
+  
+}
+.fif{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+}
+.display-4{
+    color: white;
+   text-align-last: center; 
+   font-weight: 400;
+   text-decoration-line: underline;
+}
+.link4{
+    border: 10px,solid,yellow;
+    padding: 3px;
+    background-color: rgba(173, 134, 6, 0.773);
+    text-decoration: none;
+    color:  white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.sec7{
+    background-image: url(drinks.jpg);
+    background-size: cover;
+}
+.free3{
+    background-color: rgba(0, 0, 0, 0.437);
+}
+.inbox8{
+    min-height: 40vh;
+    text-align: center;
+
+}
+.six{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+
+.link5{
+    border: 10px,solid,yellow;
+    padding: 3px;
+    background-color: rgba(173, 134, 6, 0.773);
+    text-decoration: none;
+    color:  white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.sec8{
+    background-image: url(restaurent.jpg);
+    background-size: cover;
+}
+.inbox9{
+    height: 40vh;
+    text-align: center;
+
+}
+.head1{
+    color:white;
+    font-weight: lighter;
+}
+
+.line1{
+    background-color: white;
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    right: 0px;
+    top: 26px;
+  
+  
+}
+
+.line4{
+    background-color: white;
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    left: 0px;
+    top: 26px;
+  
+  
+}
+
+.line3{
+    background-color: white;
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+  
+}
+.line5{
+    background-color: white;
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    left: 0px;
+    bottom: 50px;
+  
+}
+.line2{
+    background-color: white;
+    height: 1px;
+    width: 100%;
+    margin-top: 25px;
+}
+.line6{
+    background-color:  rgb(76, 29, 4);
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    right: 0px;
+    top: 25px;
+  
+}
+.line7{
+    background-color: rgb(76, 29, 4);
+    height: 1px;
+    width: 100%;
+    margin-top: 25px;
+    
+}
+.line8{
+    background-color:  rgb(76, 29, 4);
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+}
+.inbox12{
+    position: relative;
+   
+}
+.line9{
+    background-color:  rgb(76, 29, 4);
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    left: 0px;
+    top: 26px;
+}
+.line10{
+    background-color: rgb(76, 29, 4);
+    height: 1px;
+    width: 50%;
+    margin-top:20px ;
+    position: absolute;
+    left: 0px;
+    bottom: 50px;
+  
+}
